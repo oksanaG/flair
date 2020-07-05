@@ -1,4 +1,7 @@
 # My quick hotfix
+# My cool feature
+
+>>>>>>> feature-101
 from typing import List
 
 import flair.datasets
